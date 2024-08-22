@@ -2,6 +2,9 @@
 
 **`Digital Craftman (Developer)`**
 
+I'm and indie developer....
+
+
 <!--
 **CalebUddyback/CalebUddyback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
