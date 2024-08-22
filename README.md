@@ -21,6 +21,13 @@ I'm an indie developer....
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 
+#
+
+<details>
+    <summary><h3> Caleb's Coding Journy </h3></summary>
+    I started my journey as a....
+
+
 <!--
 **CalebUddyback/CalebUddyback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
