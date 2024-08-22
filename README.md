@@ -1,4 +1,4 @@
-# Caleb Uddyback 👋
+# :video_game: Caleb Uddyback
 
 **`Digital Craftman (Developer)`**
 
