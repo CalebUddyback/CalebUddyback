@@ -1,4 +1,4 @@
-# :video_game: Caleb Uddyback
+# :sunglasses: Caleb Uddyback
 
 **`Digital Craftman (Developer)`**
 
