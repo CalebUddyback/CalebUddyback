@@ -24,7 +24,7 @@ I'm an indie developer....
 #
 
 <details>
-    <summary><h3> Caleb's Coding Journy </h3></summary>
+    <summary><h3> Caleb's Coding Journey </h3></summary>
     I started my journey as a....
 
 
